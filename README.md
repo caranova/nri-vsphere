@@ -21,7 +21,7 @@ To install the integration, follow the official [documentation](https://docs.new
 
 After you've [installed](#installation) the integration make sure that you have the required configuration for your environment.
 
-To configure the integration go to `/etc/newrelic-infra/integrations.d/` (Linux) or `C:\Program Files\New Relic\newrelic-infra\integrations.d\` (Windows) and open the`vpshere-config.yml` configuration file.
+To configure the integration go to `/etc/newrelic-infra/integrations.d/` (Linux) or `C:\Program Files\New Relic\newrelic-infra\integrations.d\` (Windows) and open the`vsphere-config.yml` configuration file.
 
 Configure the `URL`, `user`, and `password` fields -- they are required to connect to your vCenter or ESXi host.
 
